@@ -1,4 +1,6 @@
-# kaggle NIPS2019 Recursion Cellular Image Classification Challenge 2019 2nd place code
+## DeepNoise: Disentanglement of Experimental Noise from Real Biological Signals for Fluorescent Microscopy Images via Deep Learning( Under review)
+
+### kaggle NIPS2019 Recursion Cellular Image Classification Challenge 2019 2nd place code
 
 #### Dependencies
 - imgaug == 0.2.8
