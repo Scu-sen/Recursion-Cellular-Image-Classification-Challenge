@@ -1,4 +1,6 @@
-## DeepNoise: Disentanglement of Experimental Noise from Real Biological Signals for Fluorescent Microscopy Images via Deep Learning( Under review)
+## DeepNoise: Signal and Noise Disentanglement based on Classifying Fluorescent Microscopy Images via Deep Learningg(Genomics, Proteomics and Bioinformatics)
+
+[ArXiv](https://arxiv.org/abs/2209.05772) | [Cite](#reference) 
 
 ### kaggle NIPS2019 Recursion Cellular Image Classification Challenge 2nd place [code](https://www.kaggle.com/c/recursion-cellular-image-classification)
 
@@ -53,6 +55,16 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python main.py --mode=infer --model=xception_large 
 
 ```
 python ensemble.py
+```
+
+## Reference
+If you find our work useful in your research or if you use parts of this code please consider citing our paper:
+
+```@article{WANG2021102785,
+title = {DeepNoise: Signal and Noise Disentanglement based on Classifying Fluorescent Microscopy Images via Deep Learning},
+author={Sen,Yang and Tao,Shen and Yuqi,Fang and Xiyue,Wang and Jun,Zhang and Wei,Yang and Junzhou,Huang and Xiao,Han},
+journal = {Genomics, Proteomics and Bioinformatics},  
+year = {2023}  
 ```
 
 
